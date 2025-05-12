@@ -17,7 +17,7 @@ module.exports = {
 
     login: 'https://daftarwap.orang-dalam.link/ong',
 
-    artikel1 : "Pasaran Togel Terbanyak",
+    artikel1 : "Pasaran Togel Terbanyak 222",
 
     artikel2 : "Togel Hongkong, Sydney, Singapore, Malibu, China, Macau",
 
