@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import GlobalConst from "./var-global";
+import GlobalConst from "app/var-global";
 import { RiStarFill } from 'react-icons/ri';
 
 export default function Home() {
