@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next';
-import GlobalConst from "app/var-global";
+import GlobalConst from "./var-global";
  
 export default function robots(): MetadataRoute.Robots {
   return {
