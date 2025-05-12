@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next';
-import GlobalConst from "./var-global";
+import GlobalConst from "app/var-global";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
