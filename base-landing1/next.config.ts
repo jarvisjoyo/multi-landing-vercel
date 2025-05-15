@@ -1,5 +1,7 @@
-// base-landing1/next.config.js
-module.exports = {
-  reactStrictMode: true,
-  basePath: '/base-landing1',
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* config options here */
 };
+
+export default nextConfig;
